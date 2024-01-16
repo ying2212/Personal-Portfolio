@@ -4,7 +4,8 @@ Welcome to my portfolio! I'm Guan Ying Goh, a computer science major and mathema
 
 ## About Me
 
-I believe in constant learning and strive to improve myself every day, both personally and professionally. Apart from computer science, I also love to explore various hobbies, such as outdoor activities, photography, and traveling.
+I believe in constant learning and strive to improve myself every day, both personally and professionally. But beyond the lines of code, there's a world of exploration that fuels my spirit. Outdoor activities, photography, and traveling are my gateways to endless horizons.
+
 
 ## Projects
 
