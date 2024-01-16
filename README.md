@@ -1,6 +1,6 @@
 # [Guan Ying Goh's Portfolio](https://48fd13ef-91bb-4c7d-8a88-e5cee727ee72-00-1bpoh08idrdak.global.replit.dev/)
 
-Welcome to my portfolio! I'm Guan Ying Goh, a computer science major and mathematics minor student at Hunter College with a passion for problem-solving and innovation. Securing a career in the tech industry presents a challenging yet rewarding opportunity. I believe that my passion, diverse experiences, and proficiency in technology make me a suitable candidate to contribute to innovative solutions and further my growth in this ever-evolving field.
+Welcome to my portfolio! I'm Guan Ying Goh, a computer science major and mathematics minor student at Hunter College with a passion for problem-solving and innovation. Securing a career in the tech industry presents a challenging yet rewarding opportunity for me. I believe that my passion, diverse experiences, and proficiency in technology make me a suitable candidate to contribute to innovative solutions and further my growth in this ever-evolving field.
 
 ## About Me
 
