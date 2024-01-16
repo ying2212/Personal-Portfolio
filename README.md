@@ -37,6 +37,6 @@ Feel free to reach out if you're interested in discussing a project or anything 
 ## Contact
 
 - Email: [gohguanying@gmail.com](mailto:your.email@example.com)
-- LinkedIn: [Guan Ying Goh](https://www.linkedin.com/in/guan-ying-g-723644237/))
+- LinkedIn: [Guan Ying Goh](https://www.linkedin.com/in/guan-ying-g-723644237/)
 
 Thank you for visiting my portfolio! 🚀
