@@ -24,7 +24,7 @@ I believe in constant learning and strive to improve myself every day, both pers
 - Description: Pay tribute to Dr. Norman Borlaug  with this dedicated page.
 - Skills: HTML, CSS
 
-### [Project 3: C-C-Combat!](https://0483659b-bd86-4565-ba13-e4e53b257907-00-15df2pznkwc2g.global.replit.dev/)
+### [Project 4: C-C-Combat!](https://0483659b-bd86-4565-ba13-e4e53b257907-00-15df2pznkwc2g.global.replit.dev/)
 
 - Description: This is my course project that architected a sophisticated turn-based combat system within a Tavern milieu. Applied advanced data structures in C++, meticulously modifying the Character class to incorporate action queues and buffs. Elevated the Tavern class to efficiently manage main character and enemy queues, employing intricate sorting algorithms based on level and vitality.
 - Skills: C++(mainly), Object-Oriented Design, Data Structures, Algorithm Optimization, STL
