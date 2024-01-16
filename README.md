@@ -12,17 +12,23 @@ I believe in constant learning and strive to improve myself every day, both pers
 ### [Project 1: Product Landing Page](https://5b044897-edc4-4701-a5e8-d2c33109ad69-00-3qofjipnsfjk2.global.replit.dev/)
 
 - Description: Immerse your audience in a captivating visual experience that highlights the key features and uniqueness of your product. From the moment they land on the page, every detail is crafted to evoke curiosity and interest.
-- Technologies Used: HTML, CSS
+- Skills: HTML, CSS
 
 ### [Project 2: Girls Who Code x Women In Computer Science Club Hackathon](https://c342f843-2d3a-468a-9ead-29e01e60c020-00-71vxoe5kd0mn.global.replit.dev/)
 
 - Description: Emerged as champions among a pool of 15 participating groups and collaborated within a three-member team to develop a website centered on addressing gender diversity and equity within the tech sector. The website contains an informative section, an interactive quiz, and a data-driven pie chart for visual representation. The design of the website was crafted to ensure both aesthetic appeal and user-friendly navigation.
-- Technologies Used: HTML, CSS
+- Skills: HTML, CSS, Javascript
 
 ### [Project 3: Tribute Page](https://0483659b-bd86-4565-ba13-e4e53b257907-00-15df2pznkwc2g.global.replit.dev/)
 
 - Description: Pay tribute to Dr. Norman Borlaug  with this dedicated page.
-- Technologies Used: HTML, CSS
+- Skills: HTML, CSS
+
+### [Project 3: C-C-Combat!](https://0483659b-bd86-4565-ba13-e4e53b257907-00-15df2pznkwc2g.global.replit.dev/)
+
+- Description: This is my course project that architected a sophisticated turn-based combat system within a Tavern milieu. Applied advanced data structures in C++, meticulously modifying the Character class to incorporate action queues and buffs. Elevated the Tavern class to efficiently manage main character and enemy queues, employing intricate sorting algorithms based on level and vitality.
+- Skills: C++(mainly), Object-Oriented Design, Data Structures, Algorithm Optimization, STL
+
 
 
 ## Personal Pursuits
