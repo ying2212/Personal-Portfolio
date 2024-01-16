@@ -41,5 +41,6 @@ Feel free to reach out if you're interested in discussing a project or anything 
 - LinkedIn: [Guan Ying Goh](https://www.linkedin.com/in/guan-ying-g-723644237/)
 
 Thank you for visiting my portfolio! 🚀
+
 *Latest Update: [Jan 15, 2024]*
 © [Guan Ying Goh] [2024]
