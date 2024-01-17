@@ -11,7 +11,7 @@ I believe in constant learning and strive to improve myself every day, both pers
 
 ### [Project 1: C-C-Combat!](https://github.com/ying2212/CSCI235-Project)
 
-- Description: This is my course project that architected a sophisticated turn-based combat system within a Tavern milieu. Applied advanced data structures in C++, meticulously modifying the Character class to incorporate action queues and buffs. Elevated the Tavern class to efficiently manage main character and enemy queues, employing intricate sorting algorithms based on level and vitality.
+- Description: This is my course project that architected a sophisticated turn-based combat system within a Tavern milieu. Applied advanced data structures in C++, modifying the Character class to incorporate action queues and buffs（using stack and queue). Elevated the Tavern class to efficiently manage main character and enemy queues, employing intricate sorting algorithms based on level and vitality.
 - Skills: C++(mainly), Object-Oriented Design, Data Structures, Algorithm Optimization, STL
 
 ### [Project 2: Girls Who Code x Women In Computer Science Club Hackathon](https://c342f843-2d3a-468a-9ead-29e01e60c020-00-71vxoe5kd0mn.global.replit.dev/)
