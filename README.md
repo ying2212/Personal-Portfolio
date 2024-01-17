@@ -9,10 +9,10 @@ I believe in constant learning and strive to improve myself every day, both pers
 
 ## Projects
 
-### [Project 1: Product Landing Page](https://5b044897-edc4-4701-a5e8-d2c33109ad69-00-3qofjipnsfjk2.global.replit.dev/)
+### [Project 1: C-C-Combat!](https://github.com/ying2212/CSCI235-Project)
 
-- Description: Immerse your audience in a captivating visual experience that highlights the key features and uniqueness of your product. From the moment they land on the page, every detail is crafted to evoke curiosity and interest.
-- Skills: HTML, CSS
+- Description: This is my course project that architected a sophisticated turn-based combat system within a Tavern milieu. Applied advanced data structures in C++, meticulously modifying the Character class to incorporate action queues and buffs. Elevated the Tavern class to efficiently manage main character and enemy queues, employing intricate sorting algorithms based on level and vitality.
+- Skills: C++(mainly), Object-Oriented Design, Data Structures, Algorithm Optimization, STL
 
 ### [Project 2: Girls Who Code x Women In Computer Science Club Hackathon](https://c342f843-2d3a-468a-9ead-29e01e60c020-00-71vxoe5kd0mn.global.replit.dev/)
 
@@ -24,10 +24,10 @@ I believe in constant learning and strive to improve myself every day, both pers
 - Description: Pay tribute to Dr. Norman Borlaug  with this dedicated page.
 - Skills: HTML, CSS
 
-### [Project 4: C-C-Combat!](https://github.com/ying2212/CSCI235-Project)
+### [Project 4: Product Landing Page](https://5b044897-edc4-4701-a5e8-d2c33109ad69-00-3qofjipnsfjk2.global.replit.dev/)
 
-- Description: This is my course project that architected a sophisticated turn-based combat system within a Tavern milieu. Applied advanced data structures in C++, meticulously modifying the Character class to incorporate action queues and buffs. Elevated the Tavern class to efficiently manage main character and enemy queues, employing intricate sorting algorithms based on level and vitality.
-- Skills: C++(mainly), Object-Oriented Design, Data Structures, Algorithm Optimization, STL
+- Description: Immerse your audience in a captivating visual experience that highlights the key features and uniqueness of your product. From the moment they land on the page, every detail is crafted to evoke curiosity and interest.
+- Skills: HTML, CSS
 
 
 
