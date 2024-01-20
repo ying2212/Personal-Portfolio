@@ -24,11 +24,15 @@ I believe in constant learning and strive to improve myself every day, both pers
 - Description: Pay tribute to Dr. Norman Borlaug  with this dedicated page.
 - Skills: HTML, CSS
 
-### [Project 4: Product Landing Page](https://5b044897-edc4-4701-a5e8-d2c33109ad69-00-3qofjipnsfjk2.global.replit.dev/)
+### [Project 3: Scam Emaik Detection System](https://github.com/ying2212/ScamEmailDetectionSystem-MachineLearning)
+
+- Description: A machine learning-based system designed to detect scam emails effectively. I leveraged datasets sourced from both Kaggle and Zenodo to benefit system from a diverse and up-to-date collection of scam emails from users spanning the years 1998 to 2022. The The primary objective is to construct a practical and efficient model capable of accurately identifying scam emails, employing Python and Google Colab.
+- Skills: Python, Machine Learning, Data Analystic, Jupyter Notebook, Google Colab
+
+### [Project 5: Product Landing Page](https://5b044897-edc4-4701-a5e8-d2c33109ad69-00-3qofjipnsfjk2.global.replit.dev/)
 
 - Description: Immerse your audience in a captivating visual experience that highlights the key features and uniqueness of your product. From the moment they land on the page, every detail is crafted to evoke curiosity and interest.
 - Skills: HTML, CSS
-
 
 
 ## Personal Pursuits
