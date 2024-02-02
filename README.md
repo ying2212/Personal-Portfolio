@@ -6,7 +6,6 @@ Welcome to my portfolio! I'm Guan Ying Goh, a computer science major and mathema
 
 I believe in constant learning and strive to improve myself every day, both personally and professionally. But beyond the lines of code, there's a world of exploration that fuels my spirit. Outdoor activities, photography, and traveling are my gateways to endless horizons.
 
-
 ## Projects
 
 ### [Project 1: C-C-Combat!](https://github.com/ying2212/CSCI235-Project)
