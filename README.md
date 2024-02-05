@@ -33,7 +33,6 @@ I believe in constant learning and strive to improve myself every day, both pers
 - Description: Immerse your audience in a captivating visual experience that highlights the key features and uniqueness of your product. From the moment they land on the page, every detail is crafted to evoke curiosity and interest.
 - Skills: HTML, CSS
 
-
 ## Personal Pursuits
 
 In addition to my academic and professional pursuits, I am passionate about various personal interests:
